@@ -1,0 +1,4 @@
+IMAGE_SIZE = (224, 224)
+MAX_FILE_SIZE_MB = 5
+CONFIDENCE_THRESHOLD = 0.60
+ALLOWED_EXTENSIONS = {"jpg", "jpeg", "png", "webp"}

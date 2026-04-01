@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-multipart
+tensorflow
+pillow
+python-dotenv
+slowapi
+loguru
+scikit-learn
